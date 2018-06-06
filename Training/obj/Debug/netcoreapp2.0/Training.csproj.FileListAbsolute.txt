@@ -1,0 +1,11 @@
+C:\Dev\Training\Training\bin\Debug\netcoreapp2.0\Training.deps.json
+C:\Dev\Training\Training\bin\Debug\netcoreapp2.0\Training.runtimeconfig.json
+C:\Dev\Training\Training\bin\Debug\netcoreapp2.0\Training.runtimeconfig.dev.json
+C:\Dev\Training\Training\bin\Debug\netcoreapp2.0\Training.dll
+C:\Dev\Training\Training\bin\Debug\netcoreapp2.0\Training.pdb
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.csprojResolveAssemblyReference.cache
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.csproj.CoreCompileInputs.cache
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.AssemblyInfoInputs.cache
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.AssemblyInfo.cs
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.dll
+C:\Dev\Training\Training\obj\Debug\netcoreapp2.0\Training.pdb
