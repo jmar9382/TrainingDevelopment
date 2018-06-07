@@ -17,7 +17,6 @@ namespace Training.Controllers
         public StudentsController(IDataRepository<Student, long> repo)
         {
             _iRepo = repo;
-            
         }
         
         // GET: api/<controller>

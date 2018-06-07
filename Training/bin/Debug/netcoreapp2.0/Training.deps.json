@@ -4061,7 +4061,7 @@
     "Microsoft.AspNetCore.All/2.0.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0A+EnH/RT2syj9NaTh73wf90/d4Vs8p5nE8m9hoZUk2zWO4PIB7/G0RyiWkNSS/jmhcH9de3M6pfXWVj8BrocQ==",
+      "sha512": "sha512-MJ4jx23XIBn3DojGkz/qeEDWF2DEwminjZe5ohonajBaacg8MPa660d5V2lZXdQ84AjW5fMCK8d0IA73TF5Uqg==",
       "path": "microsoft.aspnetcore.all/2.0.5",
       "hashPath": "microsoft.aspnetcore.all.2.0.5.nupkg.sha512"
     },
@@ -5797,7 +5797,7 @@
     "System.Runtime.Serialization.Formatters/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "sha512-KJJgHcui9KRh2S124esp2cLZHykbUSzFBbqiB52Rurs3jTcwvrFZhdTU3qH2Eo/wvQTkbPNdUC7iTdwXhLRrmw==",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "hashPath": "system.runtime.serialization.formatters.4.3.0.nupkg.sha512"
     },
@@ -6014,7 +6014,7 @@
     "System.Xml.XmlDocument/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "sha512-otU7lvSNCpA/Cqw/CiQjz/MR5TGjrZ2D6MHtMQVPbfQAHJykWpf3pFvVEsnoScUKju9dE4ptLVtmbiJzPCOUAw==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },

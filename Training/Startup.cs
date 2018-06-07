@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Training.Models;
+using Training.Models.DataManager;
 //using Training.Models.DataManager;
 using Training.Models.Repository;
 
@@ -29,7 +30,7 @@ namespace Training
         {
             //Add framework services
             services.AddDbContext<ApplicationContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:StudentApplicationDB"]));
-            //services.AddSingleton(typeof(IDataRepository<Student, long>)), typeof(StudentManager));
+            services.AddSingleton(typeof(IDataRepository<Student, long>), typeof(StudentManager));
             services.AddMvc();
         }
 
